@@ -3,6 +3,8 @@ Belajar Github
 
 Ini repository untuk belajar pagi hari, biasanya belajar python.
 
+# Fara ikut di sini
+Halo
 
 ## Ini sub heading
 - Ini sedang belajar git
