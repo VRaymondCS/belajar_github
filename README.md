@@ -19,3 +19,5 @@ Ini repository untuk belajar pagi hari, biasanya belajar python.
 
 ### Tambahan lain dari web
 - apakah ini akan terlihat?
+### tambahan untuk lihat conflict
+ini tambahan sebelum stash
