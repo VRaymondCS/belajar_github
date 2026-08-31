@@ -1,8 +1,6 @@
 # belajar_github
 Belajar Github
-
 Ini repository untuk belajar pagi hari, biasanya belajar python.
-
 
 ## Ini sub heading
 - Ini sedang belajar git
@@ -16,6 +14,3 @@ Ini repository untuk belajar pagi hari, biasanya belajar python.
 - Belajar command checkout
 - Belajar command switch
 - Belajar command tag
-
-
-- Beta dari web version 2.0
