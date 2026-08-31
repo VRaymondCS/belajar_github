@@ -18,4 +18,4 @@ Ini repository untuk belajar pagi hari, biasanya belajar python.
 - Belajar command tag
 
 
-- Beta dari web version
+- Beta dari web version 2.0
