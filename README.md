@@ -16,3 +16,6 @@ Ini repository untuk belajar pagi hari, biasanya belajar python.
 - Belajar command checkout
 - Belajar command switch
 - Belajar command tag
+
+
+- Beta dari web version
