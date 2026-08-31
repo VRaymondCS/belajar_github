@@ -1,6 +1,8 @@
 # belajar_github
 Belajar Github
+
 Ini repository untuk belajar pagi hari, biasanya belajar python.
+
 
 ## Ini sub heading
 - Ini sedang belajar git
@@ -16,4 +18,4 @@ Ini repository untuk belajar pagi hari, biasanya belajar python.
 - Belajar command tag
 
 
-coba revert?
+- coba revert?
